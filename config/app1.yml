@@ -12,5 +12,5 @@ spec:
   project: default
   source:
     path: argocd/webapp-1
-    repoURL: https://github.com/FreeBootcamp6/Aks_ArgoCd.git
+    repoURL: https://github.com/Sumitpalucc/Aks_ArgoCd.git
     targetRevision: HEAD
